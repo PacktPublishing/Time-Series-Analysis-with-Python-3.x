@@ -29,7 +29,7 @@ For successful completion of this course, students will require the computer sys
 ### Recommended Software Requirements:<br/>
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 <br/>
-●	The latest Anaconda package 2019.07 or later
+●	The latest Anaconda package 2019.07 or later<br/>
 ●	You can download the latest release of Anaconda:  https://www.anaconda.com/distribution/
 
 
